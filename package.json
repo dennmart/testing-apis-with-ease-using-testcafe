@@ -1,0 +1,21 @@
+{
+  "name": "api-testing-with-testcafe",
+  "version": "1.0.0",
+  "description": "Examples of API testing with TestCafe",
+  "scripts": {
+    "test": "testcafe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennmart/api-testing-with-testcafe.git"
+  },
+  "author": "Dennis Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennmart/api-testing-with-testcafe/issues"
+  },
+  "homepage": "https://github.com/dennmart/api-testing-with-testcafe#readme",
+  "devDependencies": {
+    "testcafe": "^1.20.0"
+  }
+}
