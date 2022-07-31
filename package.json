@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Examples of API testing with TestCafe",
   "scripts": {
-    "test": "testcafe"
+    "test": "testcafe chrome:headless *.test.js"
   },
   "repository": {
     "type": "git",
